@@ -1,9 +1,9 @@
 # whatsapp-bot
 bot de atendimento com gemini no whatsapp usando a wppconnect 
 REQUISITOS NECESSÁRIOS: 
-1 NODE JS VERSÃO IGUAL OU SUPERIOR A 16 
-2 GOOGLE CHROME 
-3 WPPCONNECT VERSÃO IGUAL OU SUPERIOR A 1.35.1
+1 NODE JS versão igual ou superior a 16  
+2 google chrome
+3 WPPCONNECT versão igual ou superior a 1.35.1
 COMANDOS PARA EXECUTAR NO TERMINAL
-NPM INSTALL 
-NODE INDEX.JS(OU O NOME DO SEU ARQUIVO)
+npm install 
+node index.js (ou o nome do seu arquivo)
