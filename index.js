@@ -1,6 +1,6 @@
 const wppconnect = require('@wppconnect-team/wppconnect');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
-const genAI = new GoogleGenerativeAI('');
+const genAI = new GoogleGenerativeAI('COLOQUE-SUA-CHAVE-DE-API-AQUI');
 
 wppconnect
   .create({
